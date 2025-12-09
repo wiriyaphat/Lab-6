@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//IloveMom
 int main(){
     int N,Even = 0,Odd = 0;
     while (cout << "Enter an integer: "){
